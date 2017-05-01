@@ -1,4 +1,1 @@
-# SBCMS
-SchoolBundle version of CMS
-This repository is for testing Azure Deploy only and should not be used by any outside users.
-C1 CMS is a product of Orckestra and they reserve all rights to access and licensing.
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
